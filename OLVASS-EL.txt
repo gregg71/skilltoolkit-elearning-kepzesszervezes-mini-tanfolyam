@@ -1,0 +1,7 @@
+SkillToolkit – eLearning képzés létrehozása a nulláról
+
+Nyisd meg az index.html fájlt egy böngészőben. A képernyőképek és a két eredeti üres importminta a HTML-be vannak ágyazva; az oldal önmagában továbbküldhető.
+A mintak könyvtárban az xlsx fájlok külön is megtalálhatók.
+Az importminták kitöltése és feltöltése éles adatokat módosíthat; olvasd el az importfejezetek felülírásról szóló részét.
+A tanfolyam nem módosítja a SkillToolkit rendszerét. Az éles képzésen nem futtattunk mentést, importot vagy tanulói tesztet.
+2026. október 25.
